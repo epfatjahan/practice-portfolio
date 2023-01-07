@@ -306,6 +306,24 @@ input[type="text"]{
     color: #666666;
     background-color: #dbdada;
 }
+.footer{
+    background-color: black;
+    height: 150px;
+}
+footer>h3{
+    color: rgb(199, 35, 35);
+    text-align: center;
+    padding-top: 50px;
+    font-family: cursive;
+    font-size: 25px;
+}
+.foot-p{
+    font-size: 10px;
+    color: #87a6a6;
+    text-align: center;
+    padding-top: 28px;
+    
+}
   
 
 
